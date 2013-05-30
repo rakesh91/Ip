@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 25 May 2012 14:45:34 +0530
+Source: ip
+Binary: ip
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ ip         - <insert up to 60 chars description>
+Changes: 
+ ip (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 74c2439aee5c7106791dfbbdde046783e3d73be4 10314 ip_0.0.1_armel.deb
+Checksums-Sha256: 
+ e39d06eb246eb348846f849e098e37a450c0bf7a57af1ba81fc69ce5da73af14 10314 ip_0.0.1_armel.deb
+Files: 
+ c7809dcf25f41726dea0bd343ec96a23 10314 user/other optional ip_0.0.1_armel.deb
+Maemo-Display-Name: IP

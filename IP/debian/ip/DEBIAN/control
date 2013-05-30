@@ -1,0 +1,13 @@
+Package: ip
+Version: 0.0.1
+Architecture: armel
+Maintainer: unknown <>
+Installed-Size: 23
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libqt4-network (>= 4.7.4~git20110517), libqtcore4 (>= 4.7.4~git20110517), libqtgui4 (>= 4.7.4~git20110517), libstdc++6 (>= 4.3.0)
+Section: user/other
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+Maemo-Display-Name: IP
+Aegis-Manifest: empty

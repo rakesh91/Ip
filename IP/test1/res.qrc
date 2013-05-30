@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/pre1">
+        <file>splashscreen-portrait2.jpg</file>
+        <file>bg.jpg</file>
+    </qresource>
+</RCC>
